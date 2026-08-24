@@ -3,8 +3,10 @@
 Software developer at [54Grad Software](https://github.com/code-with-dot-us) in northern Germany.
 **PHP and Node/TypeScript** pay the bills; **Python and Go** are where I spend my evenings.
 
-Most of my open source work orbits [InvokeAI](https://github.com/invoke-ai/InvokeAI) — I contribute
-upstream and build the tooling around it that I kept wishing existed.
+Most of my open source work orbits [InvokeAI](https://github.com/invoke-ai/InvokeAI), where I contribute
+upstream — the Z-Image *Seed Variance Enhancer* and its Linear UI shipped in
+[#8753](https://github.com/invoke-ai/InvokeAI/pull/8753) — and build the tooling around it that I kept
+wishing existed.
 
 ---
 
@@ -26,7 +28,7 @@ upstream and build the tooling around it that I kept wishing existed.
 | [Qwen3 Prompt Pro](https://github.com/Pfannkuchensack/invokenode_qwen3_prompt_pro) | Reuses the already-loaded Qwen3 encoder as an LLM to expand prompts, then conditions Z-Image and Flux Klein in one node. |
 | [Krea-2 Prompt Weighting](https://github.com/Pfannkuchensack/krea2_prompt_weighting) | Per-token weighting for Krea-2 — `(blonde:0)`, `(a red apple:-1)` — in ComfyUI, A1111 and compel notation. |
 | [Winzige Banane 🍌](https://github.com/Pfannkuchensack/winzige_banane_invokeai_node) | Gemini 2.5 Flash / 3 Pro image generation. German for "tiny banana", after Google's *Nano Banana* codename. |
-| [Z-Image Seed Variance](https://github.com/Pfannkuchensack/invokeai-z-image-seed-variance-enhancer) | Restores seed-to-seed variety in Z-Image-Turbo. |
+| [Z-Image Seed Variance](https://github.com/Pfannkuchensack/invokeai-z-image-seed-variance-enhancer) | Restores seed-to-seed variety in Z-Image-Turbo. Now part of InvokeAI core. |
 | [FLUX.2 Hildegard Refiner](https://github.com/Pfannkuchensack/flux2_hildegard_refiner) | Tile-based refinement for FLUX.2 Klein: three explicit reference slots (tile, position, global) at full resolution instead of the stock clamped reference path. Ported from 42lux's ComfyUI scheme. |
 | [Workflow Package](https://github.com/Pfannkuchensack/Pfannkuchensack-Workflow-Package) | A library of composable workflows that install themselves into InvokeAI. |
 
