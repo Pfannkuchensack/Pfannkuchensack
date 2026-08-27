@@ -1,6 +1,6 @@
 ## Hi, I'm Alexander 👋
 
-Software developer at [54Grad Software](https://github.com/code-with-dot-us) in northern Germany.
+Software developer at [54Grad Software](https://github.com/54GradSoftware) in northern Germany.
 **PHP and Node/TypeScript** pay the bills; **Python and Go** are where I spend my evenings.
 
 Most of my open source work orbits [InvokeAI](https://github.com/invoke-ai/InvokeAI), where I contribute
